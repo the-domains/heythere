@@ -1,0 +1,23 @@
+name: heythere
+favicon: null
+layout_spectrum: 0.9196994449011981
+typography_spectrum: 0.48671798198483884
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.023502839962020516
+  lightness: 0.3850816816557199
+  saturation: 0.24912623595446348
+  rhythmicContrast: 0.11590085178613663
+purpose: []
